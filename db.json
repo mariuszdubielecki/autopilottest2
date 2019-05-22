@@ -45,6 +45,52 @@
           "url": "https://www.petcircle.com.au/product/royal-canin-veterinary-diet-canine-anallergenic/17990"
         }
       ]
+    },
+     {
+      "email": "mariusz.dubielecki@petcircle.com.au",
+      "products": [
+        {
+          "name": "Canine Zd Skin Food Sensitivities",
+          "price": "311.10",
+          "imgurl": "https://storage.googleapis.com/petcircle-assets/images/products/n/hills-prescription-diet-canine-zd-skin-food-sensitivities.png",
+          "url": "https://www.petcircle.com.au/product/hills-prescription-diet-canine-zd-skin-food-sensitivities/8676vo2x"
+        },
+        {
+          "name": "Canine Metabolic",
+          "price": "277.31",
+          "imgurl": "https://storage.googleapis.com/petcircle-assets/images/products/n/hills-prescription-diet-canine-metabolic.png",
+          "url": "https://www.petcircle.com.au/product/hills-prescription-diet-canine-metabolic/22466vo2x"
+        },
+        {
+          "name": "Canine Anallergenic",
+          "price": "138.70",
+          "imgurl": "https://storage.googleapis.com/petcircle-assets/images/products/n/royal-canin-veterinary-diet-canine-anallergenic.png",
+          "url": "https://www.petcircle.com.au/product/royal-canin-veterin6ary-diet-canine-anallergenic/17990"
+        }
+      ]
+    },
+    {
+      "email": "negar.mokhtarnia@petcircle.com.au",
+      "products": [
+        {
+          "name": "Canine Zd Skin Food Sensitivities",
+          "price": "2110.10",
+          "imgurl": "https://storage.googleapis.com/petcircle-assets/images/products/n/hills-prescription-diet-canine-zd-skin-food-sensitivities.png",
+          "url": "https://www.petcircle.com.au/product/hills-prescription-diet-canine-zd-skin-food-sensitivities/8676vo2x"
+        },
+        {
+          "name": "Canine Metabolic",
+          "price": "2770.31",
+          "imgurl": "https://storage.googleapis.com/petcircle-assets/images/products/n/hills-prescription-diet-canine-metabolic.png",
+          "url": "https://www.petcircle.com.au/product/hills-prescription-diet-canine-metabolic/22466vo2x"
+        },
+        {
+          "name": "Canine Anallergenic",
+          "price": "1380.70",
+          "imgurl": "https://storage.googleapis.com/petcircle-assets/images/products/n/royal-canin-veterinary-diet-canine-anallergenic.png",
+          "url": "https://www.petcircle.com.au/product/royal-canin-veterinary-diet-canine-anallergenic/17990"
+        }
+      ]
     }
   ]
 }
